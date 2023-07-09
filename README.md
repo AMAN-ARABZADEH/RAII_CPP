@@ -34,5 +34,13 @@ RAII simplifies the code by eliminating the need for manual resource management 
 
 By following the RAII principle, we can write safer and more efficient code that automatically manages resources, preventing leaks and ensuring proper cleanup.
 
-Feel free to explore the code and learn more about RAII in C++!
+
+To learn more about RAII and its applications in C++, you can refer to the following resources:
+
+- [RAII on Wikipedia](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)
+- [RAII on cppreference](https://en.cppreference.com/w/cpp/language/raii)
+- Book: "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
+
+Feel free to explore the code and dive deeper into the RAII concept in C++!
+
 
