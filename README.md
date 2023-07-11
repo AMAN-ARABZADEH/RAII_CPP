@@ -41,6 +41,10 @@ To learn more about RAII and its applications in C++, you can refer to the follo
 - [RAII on cppreference](https://en.cppreference.com/w/cpp/language/raii)
 - Book: "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 Feel free to explore the code and dive deeper into the RAII concept in C++!
 
 
